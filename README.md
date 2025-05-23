@@ -7,7 +7,7 @@ Seja bem-vindo ao meu espaço no GitHub! Aqui você vai encontrar um pouco de tu
 ## 🚀 Sobre mim
 
 🎉 Sou descontraído, alegre e adoro resolver problemas com código!  
-💼 Atuo como desenvolvedor desde julho de 2022, focado em C#/.NET, SQL Server e Python  
+💼 Atuo como analista desenvolvedor desde julho de 2022, focado em C#/.NET, SQL Server e Python  
 🧠 Curioso por natureza, estou sempre estudando IA, automações e novas ferramentas  
 ☕ Viciado em café e boas ideias!  
 🚨 Meus projetos são pensados para uso em produção, com foco em resultado real
