@@ -44,7 +44,7 @@ Seja bem-vindo ao meu espaço no GitHub! Aqui você vai encontrar um pouco de tu
 
 | 📌 Projeto | Descrição | 🧪 Linguagens |
 |-----------|------------|---------------|
-| [🔗 Extrator de dados de imagem com IA]([https://github.com/seu-usuario/mlnet-classificador](https://github.com/Dhonathancampos/ExtractDataWithAI)) | Recebe e submete imagens a uma API de GenAI retornando os dados extraidos de maneira estruturada com baixo custo de implementação e facilidade na manutenção usando um midleware para realizar a comunicação com as API's de GenAI | `C#`, `GenAI`. `OpenRouter` |
+| [🔗 Extrator de dados de imagem com IA](https://github.com/Dhonathancampos/ExtractDataWithAI) | Recebe e submete imagens a uma API de GenAI retornando os dados extraidos de maneira estruturada com baixo custo de implementação e facilidade na manutenção usando um midleware para realizar a comunicação com as API's de GenAI | `C#`, `GenAI`. `OpenRouter` |
 
 ---
 
