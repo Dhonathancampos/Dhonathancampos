@@ -44,8 +44,7 @@ Seja bem-vindo ao meu espaço no GitHub! Aqui você vai encontrar um pouco de tu
 
 | 📌 Projeto | Descrição | 🧪 Linguagens |
 |-----------|------------|---------------|
-| [🔗 Classificador de Imagens com ML.NET](https://github.com/seu-usuario/mlnet-classificador) | Recebe imagens em Base64, carrega um modelo ZIP e retorna classificação com score | `C#`, `ML.NET` |
-| [🔗 Automação de Estoque em Excel](https://github.com/seu-usuario/estoque-eletronicos) | Gerencia entrada/saída de eletrônicos via planilhas inteligentes | `Python`, `openpyxl` |
+| [🔗 Extrator de dados de imagem com IA]([https://github.com/seu-usuario/mlnet-classificador](https://github.com/Dhonathancampos/ExtractDataWithAI)) | Recebe e submete imagens a uma API de GenAI retornando os dados extraidos de maneira estruturada com baixo custo de implementação e facilidade na manutenção usando um midleware para realizar a comunicação com as API's de GenAI | `C#`, `GenAI`. `OpenRouter` |
 
 ---
 
