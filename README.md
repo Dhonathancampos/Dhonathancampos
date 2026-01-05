@@ -1,6 +1,6 @@
 # 😁 Olá, eu sou Dhonathan Campos!
 
-Seja bem-vindo ao meu espaço no GitHub! Aqui você vai encontrar um pouco de tudo que gosto de criar: de automações simples a classificação de imagens, passando por projetos robustos em .NET e scripts inteligentes em Python 🐍⚙️
+Seja bem-vindo ao meu espaço no GitHub! Aqui você vai encontrar um pouco de tudo que gosto de criar desde automações simples a classificação de imagens, passando por projetos robustos em .NET e scripts inteligentes em Python 🐍⚙️
 
 ---
 
